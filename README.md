@@ -1,7 +1,7 @@
 # Into the Job Market: Gender Fairness in Recruitment Dataset
 
 ## Contributors 
-Alkmini Sapountzaki (alks@itu.dk), Caroline Sofie Skovby (cssk@itu.dk), Miriam Espinosa Solana
+Anonymous Contributor, Caroline Sofie Skovby (cssk@itu.dk), Miriam Espinosa Solana
 (miri@itu.dk)
 
 
